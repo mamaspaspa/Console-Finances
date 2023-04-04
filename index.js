@@ -88,3 +88,7 @@ var finances = [
 ];
 
 console.log ('Financial Analysis')
+
+var totalMonths = finance.length;
+console.log("Total months: " + totalMonths); 
+//create loop listing all of the months//
