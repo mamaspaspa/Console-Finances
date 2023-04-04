@@ -9,7 +9,9 @@ N/A
 
 ## Usage
 
-Please visit the deployed Github Pages page and navigate to the inspect console.
+Please visit the deployed page: https://mamaspaspa.github.io/Console-Finances/ and navigate to the inspect console.
+
+![A screenshot of the application](screenshot.PNG)
 
 ## Credits
 
